@@ -5,7 +5,7 @@
 -- lib.page:
 
 -- lib.header:
-logo: $assets/422ee30fb20634c292cc9ddb7e0e4268.jpg
+logo: $assets.422ee30fb20634c292cc9ddb7e0e4268.jpg
 
 logo-text: Portfolio
 cta-text-1: Home
@@ -20,7 +20,7 @@ cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
-cover: $assets/422ee30fb20634c292cc9ddb7e0e4268.jpg
+cover: $assets.422ee30fb20634c292cc9ddb7e0e4268.jpg
 
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
